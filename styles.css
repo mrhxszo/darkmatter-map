@@ -1,0 +1,14 @@
+html,
+body,
+header,
+#intro {
+	height: 100%;
+}
+
+#intro {
+	background-image: url("https://imgix.ranker.com/user_node_img/50075/1001481544/original/thor_s-helmet-emissions-nebula-photo-u1?w=650&q=50&fm=jpg&fit=crop&crop=faces") no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
